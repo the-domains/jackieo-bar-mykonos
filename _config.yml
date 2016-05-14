@@ -1,6 +1,6 @@
 name: "JackieO' Bar Mykonos"
 favicon: null
-layout_spectrum: 0.27749
+layout_spectrum: 0.09716
 typography_spectrum: 0.61315
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5598608534783125
-  lightness: 0.4944448752794415
-  saturation: 0.7367052752524614
-  rhythmicContrast: 0.7348984736017883
+  brandStrength: 0.75
+  lightness: 0.625
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
